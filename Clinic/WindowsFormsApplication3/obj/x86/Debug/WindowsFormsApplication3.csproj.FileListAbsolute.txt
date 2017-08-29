@@ -1,0 +1,162 @@
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpos.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formdoc.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpac.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formhvor.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formlic.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzber.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formdoc.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formhvor.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formlic.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpac.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpos.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzber.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Администратор\Desktop\prakt\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formdoc.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formhvor.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formlic.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpac.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpos.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzber.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Администратор\Desktop\1 cemestr\prakt\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formdoc.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formhvor.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formlic.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpac.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpos.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzber.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formdoc.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formhvor.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formlic.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpac.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpos.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzber.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Администратор\Desktop\курсова\WindowsFormsApplication3 - копия\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formgraf.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formdoc.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formgraf.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formhvor.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formlic.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpac.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpos.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzber.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Администратор\Desktop\курсова\Курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpas.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Администратор\Desktop\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\bin\Debug\MySql.Data.dll
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formadr.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formdoc.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formgraf.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formhvor.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formlic.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpac.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpas.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formpos.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzapis.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Formzber.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Piter\Searches\Desktop\Университет\Коледж\курсова\курсова\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

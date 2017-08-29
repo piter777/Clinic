@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67220B11-AF7D-43DD-925D-FC74BBB76737}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication3</RootNamespace>
+    <AssemblyName>WindowsFormsApplication3</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formadr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formadr.Designer.cs">
+      <DependentUpon>Formadr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formdoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formdoc.Designer.cs">
+      <DependentUpon>Formdoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formgraf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formgraf.Designer.cs">
+      <DependentUpon>Formgraf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formhvor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formhvor.Designer.cs">
+      <DependentUpon>Formhvor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlic.Designer.cs">
+      <DependentUpon>Formlic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formpac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formpac.Designer.cs">
+      <DependentUpon>Formpac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formpas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formpas.Designer.cs">
+      <DependentUpon>Formpas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formpos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formpos.Designer.cs">
+      <DependentUpon>Formpos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formzapis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formzapis.Designer.cs">
+      <DependentUpon>Formzapis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formzber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formzber.Designer.cs">
+      <DependentUpon>Formzber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mysqlDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mysqlDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="odbcDataSet.cs">
+      <DependentUpon>odbcDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="odbcDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>odbcDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formadr.resx">
+      <DependentUpon>Formadr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formdoc.resx">
+      <DependentUpon>Formdoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formgraf.resx">
+      <DependentUpon>Formgraf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formhvor.resx">
+      <DependentUpon>Formhvor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlic.resx">
+      <DependentUpon>Formlic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formpac.resx">
+      <DependentUpon>Formpac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formpas.resx">
+      <DependentUpon>Formpas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formpos.resx">
+      <DependentUpon>Formpos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formzapis.resx">
+      <DependentUpon>Formzapis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formzber.resx">
+      <DependentUpon>Formzber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report10.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mysqlDataSet.xsc">
+      <DependentUpon>mysqlDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="mysqlDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mysqlDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="mysqlDataSet.xss">
+      <DependentUpon>mysqlDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="odbcDataSet.xsc">
+      <DependentUpon>odbcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="odbcDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>odbcDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="odbcDataSet.xss">
+      <DependentUpon>odbcDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
